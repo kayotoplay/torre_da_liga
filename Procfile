@@ -1,1 +1,1 @@
-torreliga: python "torreliga.py"
+bot: python "bot.py"
