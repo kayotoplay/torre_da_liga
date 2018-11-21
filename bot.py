@@ -24,4 +24,4 @@ async def on_message(message):
             return await client.send_message(message.channel, "Chamando @everyone os Heróis, um membro da nossa liga precisa de ajuda, cola junto!!!")
 
 
-client.login(process.env.BOT_TOKEN);
+client.run(TOKEN)
